@@ -7,7 +7,7 @@ Ayer_pagaron = False
 vamos_a_la_playa = False
 
 #Funcion para solicitar datos por consola input("mensage")
-# La funcion input simepre retorna un string. teneemos que cnvertirlo a numero antes de hacer operaciones numericas
+# La funcion input siempre retorna un string. teneemos que cnvertirlo a numero antes de hacer operaciones numericas
 
 
 numero_digitado =input ("Digita un numero: ") # Almaceno como string
